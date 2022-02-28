@@ -2,32 +2,32 @@
 ## 📦 Install
 
 ```bash
-// sudo apt update
+sudo apt update
 ```
 
 ```bash
-// curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
 
 ```bash
-// wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
 
 ```bash
-// source ~/.bashrc
+source ~/.bashrc
 ```
 
 ```bash
-// nvm install v15.6.0
+nvm install v15.6.0
 ```
 
 ## ✨ Command
 
 ```bash
-// nvm list-remote
+nvm list-remote
 ```
 
 ```bash
-// node -v
+node -v
 ```
 
