@@ -18,7 +18,7 @@ source ~/.bashrc
 ```
 
 ```bash
-nvm install v15.6.0
+nvm install v18.13.0
 ```
 
 ## ✨ Command
