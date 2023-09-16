@@ -1,11 +1,7 @@
 ## 📦 Install
 
 ```bash
-sudo apt update
-```
-
-```bash
-sudo npm install pm2@latest -g
+npm install pm2@latest -g
 ```
 
 ## ✨ Command
